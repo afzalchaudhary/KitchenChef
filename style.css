@@ -806,3 +806,9 @@ li{
     font-weight: 400;
     color: white;
 }
+.red{
+    color: red;
+}
+.about_btn{
+    margin-top: 30px;
+}

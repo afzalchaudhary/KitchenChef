@@ -125,7 +125,7 @@ section p{
     width: 650px;
     text-align: justify;
     position: relative;
-    left:120px;
+    left:155px;
     bottom: 25px;
     top: -40px;
     line-height: 22px;
@@ -135,7 +135,7 @@ section p{
 section .main_btn{
     background: red;
     position: relative;
-    left: 115px;
+    left: 150px;
     top: -15px;
     bottom: 10px;
     width: 170px;
@@ -756,8 +756,8 @@ input[type="text"], input[type="number"], input[type="email"] {
     width: 200px;
     font-weight: bolder;
     font-size: larger;
-    color: rgb(21, 21, 15);
-    background-color: rgba(221, 221, 33, 0.895);
+    color: black;
+    background-color: red;
     border:2px solid;
     border-radius: 12px;
 }
